@@ -1,2 +1,2 @@
 # fir-filter-verilog
-My first project: FIR filter design.
+My first verilog project: FIR filter design.
