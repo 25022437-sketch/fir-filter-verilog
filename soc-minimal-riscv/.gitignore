@@ -1,0 +1,5 @@
+# Build/simulation artifacts - regenerate with the commands in README.md
+sim/*.vvp
+sim/*.vcd
+__pycache__/
+*.pyc
